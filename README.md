@@ -1,3 +1,2 @@
 # azamtoiri.me
-## Hello you are on my own domen 
-Not yet ...
+My own personal page about my skills
